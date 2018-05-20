@@ -1,11 +1,3 @@
-#Universidad Francisco Marroquin
-#Facultad de Ciencias Economicas
-#Metodos Numericos
-#Catedratica: Ing. Silvia Ruiz
-#Auxiliar: Ing. Pablo Diaz
-
-#Nombre: Maria Isabel Rivera Portillo
-#Carnet: 20150204
 #PROJECT: LINEAR REGRESSIONS
 
 ##Set Directory
